@@ -9,6 +9,8 @@ def display_menu():
     print("2. Queue Operations")
     print("3. Dictionary Operations")
     print("4. Exit")
+    def addedmenu():
+        print("Modified function to be pushed to github")
 
 def stack_operations():
     stack = []
@@ -30,6 +32,10 @@ def stack_operations():
             break
         else:
             print("Invalid choice.")
+            def modifies():
+                print("modified to push on github")
+                
+                
 
 def queue_operations():
     # TODO: Implement queue using list or collections.deque
